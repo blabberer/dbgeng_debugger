@@ -1,7 +1,9 @@
 # dbgeng_debugger 
 test code for event callbacks   
 a full blown standalone dbgeng based debugger    
-compiled and tested using vs2019 x64 devcmdprompt as x64 with cl /Zi /W4 /Od /analyze /nologo /EHsc dbxxxx.cpp /link /release    
+compiled and tested using     
+
+vs2019 x64 devcmdprompt as x64 with cl /Zi /W4 /Od /analyze /nologo /EHsc dbxxxx.cpp /link /release    
 
 usage dxxxx.exe someexe.exe    
 
